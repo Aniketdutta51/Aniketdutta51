@@ -1,194 +1,170 @@
-# Hi 👋, I'm Aniket Dutta
+# <div align="center">
 
-🎓 **M.Sc. Computer Science Student** at RKMVCC
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aniket+Dutta;Full+Stack+Developer;M.Sc.+Computer+Science+Student;AI+%7C+ML+%7C+Cybersecurity+Enthusiast" />
 
-💼 **Former Software Developer Trainee @ NIC**
+### 🎓 M.Sc. Computer Science Student @ RKMVCC
 
-* Built and optimized an **Admin Panel Module**
-* Worked on web application development and performance improvements
+### 💻 Full Stack Developer | AI & ML Enthusiast | Cybersecurity Learner
 
-🔧 **Tech Stack:** Angular, Node.js, ASP.NET Core, PostgreSQL
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-📊 **Areas of Interest:**
-
-* Full-Stack Development
-* Artificial Intelligence & Machine Learning
-* Cybersecurity
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-* Building Full-Stack Web Applications
-* Exploring Machine Learning and Deep Learning with Python
-* Developing Secure and Scalable Web Solutions
-* Enhancing Backend and Database Optimization Skills
-
----
-
-## 📫 Let's Collaborate
-
-I'm open to:
-
-* Internships
-* Open Source Contributions
-* Learning-Focused Collaborations
-* Full-Stack Development Projects
-
-Feel free to connect with me through LinkedIn or reach out via email.
+* 🎓 Pursuing **M.Sc. in Computer Science**
+* 💼 Former **Software Developer Trainee @ NIC**
+* 🔥 Passionate about **Full Stack Development**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🛡️ Interested in **Cybersecurity**
+* 📚 Always learning new technologies and frameworks
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Professional Experience
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### 🏢 National Informatics Centre (NIC)
 
-  <a href="YOUR_X_URL">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+**Software Developer Trainee**
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+✔ Developed and optimized an Admin Panel Module
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+✔ Improved application performance and responsiveness
+
+✔ Worked on full-stack web application development
+
+✔ Collaborated on scalable and maintainable solutions
+
+---
+
+## 🌟 Current Focus
+
+* 🔨 Building Full Stack Applications
+* 🤖 Machine Learning & Deep Learning Projects
+* 🗄️ Database Optimization
+* 🔐 Secure Web Development
+* ☁️ Cloud & DevOps Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
+</p>
+
+### Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+</p>
+
+### Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### AI / Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp" />
+</p>
+
+### Design Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
 
 ---
 
+## 📈 GitHub Analytics
 
+<div align="center">
 
-## 💻 Tech Stack
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++
-</td>
-</tr>
-</table>
+</div>
 
-### Frontend
+---
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/><br>Angular
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
-</td>
+## 🔥 GitHub Streak
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
-</td>
+<div align="center">
 
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-### Backend
+</div>
 
-<table>
-<tr>
+---
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
-</td>
+## 📊 Contribution Graph
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/><br>ASP.NET Core
-</td>
-</tr>
-</table>
+<div align="center">
 
-### Databases
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
-</td>
-</tr>
-</table>
+</div>
 
-### Data Science & AI
+---
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
-</td>
+## 🏆 GitHub Trophies
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>Matplotlib
-</td>
-</tr>
-</table>
+<div align="center">
 
-### DevOps & Cloud
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
-</td>
+</div>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br>AWS
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/><br>Google Cloud
-</td>
-</tr>
-</table>
+---
 
-### Design
+## 🤝 Connect With Me
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>Photoshop
-</td>
-</tr>
-</table>
+<p align="center">
 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="YOUR_X_URL">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
+
+</div>

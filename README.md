@@ -2,7 +2,7 @@
 
 🎓 **M.Sc. Computer Science Student** at RKMVCC
 
-💼 **Former Software Developer Intern @ NIC**
+💼 **Former Software Developer Trainee @ NIC**
 
 * Built and optimized an **Admin Panel Module**
 * Worked on web application development and performance improvements
@@ -61,7 +61,7 @@ Feel free to connect with me through LinkedIn or reach out via email.
 
 ---
 
-## 💻 Tech Stack
+
 
 ## 💻 Tech Stack
 
@@ -190,31 +190,5 @@ Feel free to connect with me through LinkedIn or reach out via email.
 </table>
 
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### ⭐ Code • Learn • Build • Repeat

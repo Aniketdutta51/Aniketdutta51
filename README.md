@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | AI & ML Enthusiast | Cybersecurity Learner
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -15,11 +15,11 @@
 ## 🚀 About Me
 
 * 🎓 Pursuing **M.Sc. in Computer Science**
-* 💼 Former **Software Developer Trainee @ NIC**
-* 🔥 Passionate about **Full Stack Development**
+* 💼 Former **Software Developer Trainee at NIC**
+* 🌐 Passionate about **Full-Stack Development**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🛡️ Interested in **Cybersecurity**
-* 📚 Always learning new technologies and frameworks
+* 🔐 Interested in **Cybersecurity**
+* 📚 Continuously learning modern technologies and frameworks
 
 ---
 
@@ -29,29 +29,29 @@
 
 **Software Developer Trainee**
 
-✔ Developed and optimized an Admin Panel Module
+✔ Built and optimized an Admin Panel Module
 
-✔ Improved application performance and responsiveness
+✔ Worked on scalable web application development
 
-✔ Worked on full-stack web application development
+✔ Improved application performance and maintainability
 
-✔ Collaborated on scalable and maintainable solutions
+✔ Collaborated with development teams on real-world projects
 
 ---
 
-## 🌟 Current Focus
+## 🎯 Current Focus
 
-* 🔨 Building Full Stack Applications
-* 🤖 Machine Learning & Deep Learning Projects
-* 🗄️ Database Optimization
-* 🔐 Secure Web Development
+* 🔨 Building Full-Stack Web Applications
+* 🤖 Learning Machine Learning & Deep Learning
+* 🗄️ Database Design and Optimization
+* 🔒 Secure Backend Development
 * ☁️ Cloud & DevOps Technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
@@ -75,7 +75,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### AI / Data Science
+### AI & Data Science
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -95,58 +95,31 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 🌱 Currently Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Advanced ASP.NET Core
+* Machine Learning with Python
+* Docker & Cloud Deployment
+* Secure API Development
+* System Design Fundamentals
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Open For Collaboration
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+* 🚀 Full-Stack Development Projects
+* 🌍 Open Source Contributions
+* 💡 Learning-Focused Collaborations
+* 🎓 Internship Opportunities
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -163,7 +136,9 @@
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💡 Code • Learn • Build • Repeat
+
+*"Turning ideas into scalable solutions through code."*
 
 ⭐ Thanks for visiting my profile!
 

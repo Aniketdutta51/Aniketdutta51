@@ -97,18 +97,14 @@ Feel free to connect with me through LinkedIn or reach out via email.
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>Next.js
-</td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap
-</td>
+
 </tr>
 </table>
 
@@ -116,15 +112,11 @@ Feel free to connect with me through LinkedIn or reach out via email.
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/><br>Spring Boot
-</td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express.js
-</td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/><br>ASP.NET Core
 </td>
@@ -154,9 +146,7 @@ Feel free to connect with me through LinkedIn or reach out via email.
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br>TensorFlow
-</td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>Matplotlib
 </td>
@@ -173,9 +163,7 @@ Feel free to connect with me through LinkedIn or reach out via email.
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
 </td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/><br>GitLab
-</td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
 </td>
